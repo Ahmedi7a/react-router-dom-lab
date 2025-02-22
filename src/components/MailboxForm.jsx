@@ -1,9 +1,9 @@
-
+import { useState } from "react";
 
 function MailboxForm(){
     return(
         <>
-        mail form
+        <h1>New Mailbox</h1>
         </>
     )
 }

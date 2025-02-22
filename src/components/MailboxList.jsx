@@ -1,8 +1,9 @@
+import { Link } from "react-router-dom";
 
 function MailboxList(){
     return(
         <>
-        mail box
+        <h1>Mailbox List</h1>
         </>
     )
 }
